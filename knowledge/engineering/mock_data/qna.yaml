@@ -1,0 +1,52 @@
+created_by: Gregory-Pereira
+version: 3
+domain: Testing mock data
+document_outline: >-
+  This is some mock data that I will use to determine the structure of Ilab and
+  how it works.
+seed_examples:
+  - context: '1'
+    questions_and_answers:
+      - question: a
+        answer: a
+      - question: b
+        answer: b
+      - question: c
+        answer: c
+  - context: '2'
+    questions_and_answers:
+      - question: a
+        answer: a
+      - question: b
+        answer: b
+      - question: c
+        answer: c
+  - context: '3'
+    questions_and_answers:
+      - question: a
+        answer: a
+      - question: b
+        answer: b
+      - question: c
+        answer: c
+  - context: '4'
+    questions_and_answers:
+      - question: a
+        answer: a
+      - question: b
+        answer: b
+      - question: c
+        answer: c
+  - context: '5'
+    questions_and_answers:
+      - question: a
+        answer: a
+      - question: b
+        answer: b
+      - question: c
+        answer: c
+document:
+  repo: https://gist.github.com/Gregory-Pereira/1ce24e2c048d9596d3fbc91e01ac1112
+  commit: 1ce24e2c048d9596d3fbc91e01ac1112
+  patterns:
+    - mock-data-ilab-contribution.md

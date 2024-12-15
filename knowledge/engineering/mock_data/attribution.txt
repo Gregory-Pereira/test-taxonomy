@@ -1,0 +1,5 @@
+Title of work: mock data
+Link to work: https://gist.githubusercontent.com/Gregory-Pereira/1ce24e2c048d9596d3fbc91e01ac1112/raw/f422768f7f05ba0d0c12943c95e87a1c38eb2032/mock-data-ilab-contribution.md
+Revision: 1
+License of the work: MIT-2.0
+Creator names: Gregory Pereira
